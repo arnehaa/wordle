@@ -1,0 +1,1 @@
+This is a pet project trying to replicate the popular Wordle game featured in the NYT Games app.
